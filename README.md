@@ -5,18 +5,27 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+It is the development, management and distribution of a software to solve a real world  problem.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. Birth of software engineering - it was rEcognized as a discipline to address "software crisis".
+2. Rise of object oriented programming -it made coding more more modular and flexible.
+3. Birth of Agile - introduced flexibility and adaptability that was not in waterfall.
 
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
+List and briefly explain the phases of the Software Development Life Cycle
+1. Planning - timelines, budget and team roles are defined.
+2.Designing - technical architecture and general appearance is defined.
+3.Development - coding of the software is done.
+4.Testing - debugging and feature evOlutions is done.
+Deployment -realized stable version is released to the market.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+- Software Developer - tackles the core of software development life cycle
+- Quality assurance engineer - is an input of human software interaction and testing.
+- Project Manager steers the whole team in software development
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
